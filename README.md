@@ -2,7 +2,7 @@
 Stimulating growth one task at a time.
 View our program [here](https://incrementumapp.herokuapp.com/).
 
-## Programmed with:
+## Frontend:
 React, Javascript, HTML/CSS.
 
 ## Wireframe:
